@@ -1,2 +1,2 @@
 # python-projects
-Personal projects and class assignments using Python
+Class assignments for grad-level Intro to Coding (Fall 2023)
